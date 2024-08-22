@@ -1,0 +1,15 @@
+hu\anzek\backend\service\BeszerzesFileReader.class
+hu\anzek\backend\controller\BeszerzesController.class
+hu\anzek\backend\controller\TermekController.class
+hu\anzek\backend\model\Termek.class
+hu\anzek\backend\repository\TermekRepository.class
+hu\anzek\backend\service\ProjectAdmin.class
+hu\anzek\backend\GyartasApplication.class
+hu\anzek\backend\model\MegrendelesEladasra.class
+hu\anzek\backend\service\TermekService.class
+hu\anzek\backend\controller\ErtekesitesController.class
+hu\anzek\backend\model\Beszerzes.class
+hu\anzek\backend\model\ErtekesitesAdat.class
+hu\anzek\backend\gyartasirendeleskezeles\TermekBeszerzes.class
+hu\anzek\backend\repository\ErtekesitesRepository.class
+hu\anzek\backend\service\ErtekesitesService.class
